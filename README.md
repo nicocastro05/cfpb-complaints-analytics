@@ -48,3 +48,17 @@ Based on the analysis of 555,957 records:
 ├── images/
 │   └── dashboard-preview.png        # Dashboard screenshot
 └── README.md
+```
+
+## 📁 Dataset
+- **Source:** [CFPB Consumer Complaint Database on Kaggle](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints)
+- **Original Provider:** Kaggle
+- **Size:** 555,957 rows
+- **Note on Data:** The full dataset exceeds GitHub's file size limits. A small sample is included in the `/data` folder. To run the full analysis, download the original dataset from the Kaggle link above.
+
+## 👤 About Me
+John Nico S. Castro — Aspiring Data Analyst
+
+- **LinkedIn:** https://www.linkedin.com/in/john-nico-castro/
+- **Tableau Public:** https://public.tableau.com/app/profile/john.nico.castro/vizzes
+- **GitHub:** https://github.com/nicocastro05
